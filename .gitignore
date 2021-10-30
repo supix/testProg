@@ -1,0 +1,5 @@
+pin del bancomat.txt
+*.bak
+*.pref
+obj/*
+bin/*
