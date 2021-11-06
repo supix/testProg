@@ -1,3 +1,9 @@
+- olive
+- aperitivo
+- arachidi
+- patatine
+- bandierine
+
 - pane 1kg
 - latte 1lt
 - burro 250g
